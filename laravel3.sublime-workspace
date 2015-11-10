@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"redirect",
+				"redirect〔function〕"
+			],
+			[
+				"red",
+				"redirect〔function〕"
+			],
+			[
 				"for",
 				"for	for …"
 			],
@@ -435,6 +443,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/D/Dropbox/diverse/setup/laravel",
+			"settings":
+			{
+				"buffer_size": 3377,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -444,7 +460,7 @@
 		[
 			[
 				"Package Control: ",
-				"Package Control: Install Package"
+				"Package Control: List Packages"
 			],
 			[
 				"Snippet: try",
@@ -475,7 +491,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 640.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -492,6 +508,45 @@
 	},
 	"file_history":
 	[
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Controllers/UsersController.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Controllers/HomeController.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/illuminate/html/helpers.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/symfony/console/Helper/Helper.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/symfony/console/Input/Input.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Middleware/BeforeMiddleware.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Kernel.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/routes.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Controllers/Auth/AuthController.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/auth/login.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/auth/recover.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Middleware/Authenticate.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/auth/register.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/users.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/edit.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/login.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Requests/CreateUserRequest.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Requests/EditProfileRequest.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/profile.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/create.blade.php",
+		"/C/Users/victor92/OneDrive/Laravel/4.The Power of Laravel4 Generators/JeffreyWay-Laravel-Generator-8e58a8d/tests/generate_task.test.php",
+		"/D/Dropbox/www/laravel/laravel3/app/User.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/layouts/master.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/config/app.php",
+		"/D/Dropbox/www/laravel/laravel3/database/migrations/2015_11_04_173415_add_users.php",
+		"/D/Dropbox/www/laravel/laravel3/database/migrations/2015_11_04_171948_add_username_field.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Providers/AppServiceProvider.php",
+		"/D/Dropbox/www/laravel/laravel3/composer.json",
 		"/D/Dropbox/www/laravel/laravel3/.env",
 		"/D/Dropbox/www/laravel/laravel2/app/Http/routes.php",
 		"/D/Dropbox/www/laravel/laravel2/database/seeds/DatabaseSeeder.php",
@@ -580,46 +635,7 @@
 		"/D/Dropbox/diverse/setup/setup_dev_ruby_and Rails",
 		"/D/Dropbox/www/codeigniter/ci2/application/config/database.php",
 		"/D/Dropbox/www/codeigniter/ci1/application/config/database.php",
-		"/D/Dropbox/www/codeigniter/ci21/application/config/database.php",
-		"/C/Users/victor92/OneDrive/codeigniter/codeigniter-PayPalCheckout/thegamingplace/application/config/config.php",
-		"/C/Users/victor92/OneDrive/codeigniter/scripts/codeigniter-PayPalCheckout/thegamingplace/application/config/config.php",
-		"/D/Dropbox/www/a-2015/test.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/application/controllers/Session.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/application/core/MY_Controller.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/application/core/MY_Input.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/application/core/MY_Model.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/application/models/Session_Model.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/application/config/autoload.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/application/config/config.php",
-		"/D/Dropbox/www/codeigniter/ci3-mongo/.htaccess",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/controllers/auths.php",
-		"/D/Dropbox/www/codeigniter/ci_intro/application/controllers/api.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/register.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/core/MY_Model.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/auths.php",
-		"/D/Dropbox/www/codeigniter/ci_intro/application/views/home/inc/header_view.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/assets/js/main.js",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/config/config.php",
-		"/D/Dropbox/www/codeigniter/ci21/application/config/config.php",
-		"/D/Dropbox/www/codeigniter/ci21/application/models/user_m.php",
-		"/D/Dropbox/www/codeigniter/ci21/application/controllers/admin/user.php",
-		"/D/Dropbox/www/codeigniter/ci21/application/core/my_model.php",
-		"/C/Users/victor92/Downloads/ci_sessions.sql",
-		"/D/Dropbox/www/codeigniter/ci21/application/views/admin/user/edit.php",
-		"/D/Dropbox/www/codeigniter/ci21/application/controllers/test.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/models/user_model.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/config/form_validation.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/change_password.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/helpers/data_helper.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/user.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/nav.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/index.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/forgot_password.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/core/MY_Controller.php",
-		"/D/Dropbox/www/codeigniter/ci1/application/controllers/user.php",
-		"/D/Dropbox/www/codeigniter/ci2/application/controllers/login.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/modules/auths/views/test.php",
-		"/D/Dropbox/www/codeigniter/ci-hmvc/application/config/routes.php"
+		"/D/Dropbox/www/codeigniter/ci21/application/config/database.php"
 	],
 	"find":
 	{
@@ -638,6 +654,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"input",
+			"redirect",
+			"userResolver",
+			"getUserResolver",
+			"user",
+			"intended",
+			"{{",
+			"}}",
+			"{{",
+			"}}",
+			"{{",
 			"}}",
 			"{{",
 			"{",
@@ -719,6 +746,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"{!!",
+			"!!}",
+			"{!!",
+			"!!}",
+			"{!!",
 			"!!}",
 			"{!!",
 			"!!",
@@ -738,8 +770,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/D/Dropbox/diverse/setup/laravel",
+					"settings":
+					{
+						"buffer_size": 3377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -789,6 +848,18 @@
 		"selected_items":
 		[
 			[
+				"helper",
+				"vendor/laravel/framework/src/Illuminate/Support/helpers.php"
+			],
+			[
+				"help",
+				"vendor/symfony/console/Helper/Helper.php"
+			],
+			[
+				"input",
+				"vendor/symfony/console/Input/Input.php"
+			],
+			[
 				"html",
 				"vendor/illuminate/html/HtmlBuilder.php"
 			],
@@ -810,7 +881,7 @@
 		[
 			[
 				"",
-				"/C/Users/victor92/OneDrive/Angular/angular1/angular1.sublime-project"
+				"/D/Dropbox/www/laravel/laravel2/laravel2.sublime-project"
 			]
 		],
 		"width": 380.0
