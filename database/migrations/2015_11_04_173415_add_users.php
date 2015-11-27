@@ -14,6 +14,7 @@ class AddUsers extends Migration
     {
         Schema::table('users', function (Blueprint $table) {
             $table->string('username', 30)->unique();
+            $table->text('bio');
         });
     }
 
@@ -26,6 +27,7 @@ class AddUsers extends Migration
     {
         Schema::table('users', function (Blueprint $table) {
             $table->dropColumn('username');
+            $table->dropColumn('bio');
         });
     }
 }

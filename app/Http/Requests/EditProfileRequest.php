@@ -14,6 +14,7 @@ class EditProfileRequest extends Request
     public function authorize()
     {
         return true;
+        //dd($this->route->parameter('id'));
     }
 
     /**

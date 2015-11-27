@@ -5,7 +5,10 @@
 @stop
 
 @section('content')
-	{!! Form::open(array('url' => '/auth/login')) !!}
+	@foreach($errors->all() as $error)
+		<p>{!! $error !!}</p>
+	@endforeach
+	{!! Form::open(['url' => '/auth/login']) !!}
 		<p>
 			{!! Form::label('username') !!}
 			{!! Form::text('username') !!}

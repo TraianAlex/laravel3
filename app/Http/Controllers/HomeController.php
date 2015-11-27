@@ -23,34 +23,36 @@ class HomeController extends Controller
         return redirect('users');
     }
 
-    public function getLogin()
-    {
-        //$creds = ['username' => 'alex', 'password' => '111111'];
-        //return (Auth::validate($creds) ? 'Match' : "No match");
-        //Auth::attempt($creds);
-        //return redirect('users');
-        return view('login');
-    }
+    // public function getLogin()
+    // {
+    //     //$creds = ['username' => 'alex', 'password' => '111111'];
+    //     //return (Auth::validate($creds) ? 'Match' : "No match");
+    //     //Auth::attempt($creds);
+    //     //return redirect('users');
+    //     return view('login');
+    // }
 
-    public function postLogin()
-    {
-        $creds = array(
-            'username' => Input::get('username'),
-            'password' => Input::get('password')
-        );
+    // public function postLogin()
+    // {
+    //     $creds = array(
+    //         'username' => Input::get('username'),
+    //         'password' => Input::get('password')
+    //     );
 
-        if (Auth::attempt($creds)) {
-            return redirect()->intended('users');//Redirect::intended('users');
-        } else {
-            return redirect('login')->withInput()->with(['message' => 'The username or password not match']);;
-        }
-    }
+    //     if (Auth::attempt($creds)) {
+    //         return redirect()->intended('users');//Redirect::intended('users');
+    //     } else {
+    //         return redirect('login')->withInput()
+    //                 //->withErrors()
+    //                 ->with(['message' => 'The username or password not match']);
+    //     }
+    // }
 
-    public function getLogout()
-    {
-        Auth::logout();
-        return redirect('users');
-    }
+    // public function getLogout()
+    // {
+    //     Auth::logout();
+    //     return redirect('users');
+    // }
 
     public function getMembers()
     {

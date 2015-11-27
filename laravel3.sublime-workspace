@@ -443,14 +443,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/D/Dropbox/diverse/setup/laravel",
-			"settings":
-			{
-				"buffer_size": 3377,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -508,8 +500,14 @@
 	},
 	"file_history":
 	[
-		"/D/Dropbox/www/laravel/laravel3/app/Http/Controllers/UsersController.php",
 		"/D/Dropbox/www/laravel/laravel3/app/Http/Controllers/HomeController.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/login.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/resources/views/layouts/nav.blade.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Controllers/UsersController.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Requests/EditProfileRequest.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Middleware/OwnerMiddleware.php",
+		"/D/Dropbox/www/laravel/laravel3/app/Http/Middleware/ExistMiddleware.php",
+		"/D/Dropbox/diverse/setup/laravel",
 		"/D/Dropbox/www/laravel/laravel3/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
 		"/D/Dropbox/www/laravel/laravel3/vendor/illuminate/html/helpers.php",
 		"/D/Dropbox/www/laravel/laravel3/vendor/symfony/console/Helper/Helper.php",
@@ -534,9 +532,7 @@
 		"/D/Dropbox/www/laravel/laravel3/resources/views/auth/register.blade.php",
 		"/D/Dropbox/www/laravel/laravel3/resources/views/users.blade.php",
 		"/D/Dropbox/www/laravel/laravel3/resources/views/edit.blade.php",
-		"/D/Dropbox/www/laravel/laravel3/resources/views/login.blade.php",
 		"/D/Dropbox/www/laravel/laravel3/app/Http/Requests/CreateUserRequest.php",
-		"/D/Dropbox/www/laravel/laravel3/app/Http/Requests/EditProfileRequest.php",
 		"/D/Dropbox/www/laravel/laravel3/resources/views/profile.blade.php",
 		"/D/Dropbox/www/laravel/laravel3/resources/views/create.blade.php",
 		"/C/Users/victor92/OneDrive/Laravel/4.The Power of Laravel4 Generators/JeffreyWay-Laravel-Generator-8e58a8d/tests/generate_task.test.php",
@@ -624,7 +620,6 @@
 		"/C/Users/victor92/OneDrive/Laravel/scripts/ImagesManager-master/database/migrations/2014_10_12_000000_create_users_table.php",
 		"/D/Dropbox/www/laravel/laravel1/database/migrations/2014_10_12_000000_create_users_table.php",
 		"/D/Dropbox/diverse/setup/git",
-		"/D/Dropbox/diverse/setup/laravel",
 		"/D/Dropbox/www/laravel/laravel1/laravel1.sublime-project",
 		"/D/Dropbox/diverse/setup/setup_dev_python_django",
 		"/D/Dropbox/diverse/setup/setup_lamp",
@@ -632,10 +627,7 @@
 		"/D/Dropbox/www/codeigniter/codeigniter-PayPalCheckout/thegamingplace/index.php",
 		"/D/Dropbox/www/codeigniter/codeigniter-PayPalCheckout/thegamingplace/application/config/config.php",
 		"/D/Dropbox/www/codeigniter/codeigniter-kewl-cms/kewlcms/application/config/config.php",
-		"/D/Dropbox/diverse/setup/setup_dev_ruby_and Rails",
-		"/D/Dropbox/www/codeigniter/ci2/application/config/database.php",
-		"/D/Dropbox/www/codeigniter/ci1/application/config/database.php",
-		"/D/Dropbox/www/codeigniter/ci21/application/config/database.php"
+		"/D/Dropbox/diverse/setup/setup_dev_ruby_and Rails"
 	],
 	"find":
 	{
@@ -770,35 +762,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/D/Dropbox/diverse/setup/laravel",
-					"settings":
-					{
-						"buffer_size": 3377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								82,
-								130
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

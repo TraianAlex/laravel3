@@ -11,7 +11,7 @@
 				@foreach($errors->all() as $error)
 					<p>{!! $error !!}</p>
 				@endforeach
-				{!! Form::open(array('url' => '/auth/register')) !!}
+				{!! Form::open(['url' => '/auth/register']) !!}
 					<div class="form-group">
 						{!! Form::label('username', 'Username:*') !!}
 						{!! Form::text('username', null, ['class' => 'form-control']) !!}

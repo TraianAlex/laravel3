@@ -15,10 +15,10 @@
 		<ul class="nav navbar-nav">
 			<li class="active"><a href="{{ url('/') }}">Home</a></li>
 			@if(Auth::check())
-				<li><a href="{{ url('logout') }}">Sign out</a></li>
+				<li><a href="{{ url('auth/logout') }}">Sign out</a></li>
 				<li><a href="{{ url('users/'.Auth::user()->id) }}">Profile</a></li>
 			@else
-				<li><a href="{{ url('login') }}">Sign in</a></li>
+				<li><a href="{{ url('auth/login') }}">Sign in</a></li>
 				<li><a href="{{ url('auth/register') }}">Create an account</a></li>
 			@endif
 		</ul>
